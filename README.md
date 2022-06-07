@@ -1,2 +1,2 @@
-# The SoftJSK website
-The SoftJSK website is a simple website written in HTML and CSS which showcases the SoftJSK projects.
+# SvGaming's website
+My website is a simple website written in HTML and CSS which showcases many of my projects, guides and more.
