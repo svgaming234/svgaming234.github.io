@@ -1,0 +1,108 @@
+body {
+    background-color: rgb(44, 44, 44);
+    color: rgb(243, 243, 243);
+    font-family: "Ubuntu", Tahoma, sans-serif
+}
+
+p {
+    font-size: 24px;
+}
+
+mark.red {
+    color: #ff0000;
+    background-color: rgb(75, 75, 75);
+}
+
+summary {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(243, 243, 243);
+    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+    text-align: center;
+    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 30px;
+    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
+}
+
+#news {
+    background-color: rgb(75, 75, 75);
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#links {
+    background-color: rgb(75, 75, 75);
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#about {
+    background-color: rgb(75, 75, 75);
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#jsklogo {
+    max-height: 150px;
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ribbon {
+    --p: 8px;
+    background-color: rgb(75, 75, 75);
+    height: 150px;
+    padding: 0 var(--p);
+    width: 100%;
+    position: relative;
+    right: var(--p);
+}
+
+#projimg {
+    max-height: 150px;
+    max-width: 512px;
+    margin-left: auto;
+    margin-right: 15px;
+    display: block;
+  }

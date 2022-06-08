@@ -1,9 +1,7 @@
 function detectMob() {
     const toMatch = [
         /Android/i,
-        /webOS/i,
         /iPhone/i,
-        /iPad/i,
         /iPod/i,
         /BlackBerry/i,
         /Windows Phone/i
@@ -15,4 +13,7 @@ function detectMob() {
 }
 console.log("detectMob return value:")
 console.log(detectMob());
-
+var theme = document.getElementsByTagName('link')[0];
+if (detectMob() == true) {
+    theme.setAttribute('href', 'mobile.css');
+} 
