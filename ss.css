@@ -100,3 +100,10 @@ h4 {
     margin-right: 15px;
     display: block;
   }
+
+#error {
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+    border: 5px solid #ff0000;
+}
