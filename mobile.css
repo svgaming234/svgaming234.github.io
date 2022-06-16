@@ -5,7 +5,7 @@ body {
 }
 
 p {
-    font-size: 24px;
+    font-size: 48px;
 }
 
 mark.red {
@@ -14,36 +14,36 @@ mark.red {
 }
 
 summary {
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
     font-weight: bold;
 }
 
 a {
-    font-size: 20px;
+    font-size: 40px;
     color: rgb(243, 243, 243);
     font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
     text-align: center;
 }
 
 h1 {
-    font-size: 64px;
+    font-size: 128px;
     text-align: center;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
 }
 
 h3 {
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
     font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
 }
 
 h4 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: normal;
     margin-left: 30px;
     font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
@@ -116,7 +116,7 @@ h4 {
 }
 
 h5 {
-    font-size: 24px;
+    font-size: 48px;
     font-weight: normal;
     text-align: center;
 }
