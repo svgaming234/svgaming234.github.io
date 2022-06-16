@@ -106,4 +106,28 @@ h4 {
     margin-left: auto;
     margin-right: 15px;
     display: block;
-  }
+}
+
+#error {
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+    border: 5px solid #ff0000;
+}
+
+h5 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+.center {
+    margin: 0px;
+    width: 100%;
+}
+
+#obsimg {
+    max-height: auto;
+    max-width: 100%;
+}
