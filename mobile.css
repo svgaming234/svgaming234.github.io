@@ -40,6 +40,7 @@ h3 {
     font-size: 80px;
     text-align: center;
     font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
+    font-weight: normal;
 }
 
 h4 {
@@ -49,7 +50,13 @@ h4 {
     font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
 }
 
-#news {
+h5 {
+    font-size: 80px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.news {
     background-color: rgb(75, 75, 75);
     overflow-x: hidden;
     overflow-y: auto;
@@ -128,7 +135,6 @@ h5 {
     width: 100%;
 }
 
-#obsimg {
-    max-height: auto;
+.obsimg {
     max-width: 100%;
 }
