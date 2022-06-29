@@ -1,7 +1,7 @@
 body {
     background-color: rgb(44, 44, 44);
     color: rgb(243, 243, 243);
-    font-family: "Ubuntu", Tahoma, sans-serif
+    font-family: "Ubuntu", "Calibri Light", Tahoma, sans-serif;
 }
 
 p {
@@ -22,7 +22,6 @@ summary {
 a {
     font-size: 40px;
     color: rgb(243, 243, 243);
-    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
     text-align: center;
 }
 
@@ -39,7 +38,6 @@ h2 {
 h3 {
     font-size: 80px;
     text-align: center;
-    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
     font-weight: normal;
 }
 
@@ -47,7 +45,6 @@ h4 {
     font-size: 40px;
     font-weight: normal;
     margin-left: 30px;
-    font-family: "Cantarell Light", "Calibri Light", "Ubuntu", Tahoma, sans-serif;
 }
 
 h5 {
