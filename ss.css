@@ -10,7 +10,7 @@ p {
 
 mark.red {
     color: #ff0000;
-    background-color: rgb(75, 75, 75);
+    background: none;
 }
 
 summary {
