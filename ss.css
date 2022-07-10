@@ -61,6 +61,7 @@ h5 {
     height: 550px;
     float: left;
     margin-left: 10px;
+    border-radius: 5px;
 }
 
 #links {
@@ -70,6 +71,7 @@ h5 {
     width: 20%;
     height: 550px;
     float: right;
+    border-radius: 5px;
 }
 
 #about {
@@ -111,6 +113,7 @@ h5 {
     padding: 10px;
     border: 5px solid #ff0000;
     text-align: center;
+    border-radius: 5px;
 }
 
 h5 {
@@ -125,6 +128,7 @@ h5 {
     width: 70%;
     border: 5px solid rgb(75, 75, 75);
     padding: 10px;
+    border-radius: 5px;
 }
 
 .obsimg {
