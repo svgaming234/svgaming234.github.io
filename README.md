@@ -3,4 +3,4 @@ My website is a simple website written in HTML, CSS and Javascript which showcas
 
 # THIS WESBITE HAS MOVED
 This website has moved to my own self-hosted server. Link to the new location:
-[SvGaming's website](https://svgaming.loca.lt)
+[SvGaming's website](https://svgaming.serveo.net)
